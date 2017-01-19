@@ -1,0 +1,23 @@
+{
+  "name": "abm-study",
+  "version": "0.0.1",
+  "description": "Agent Based Modeling study projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bricef/ABM-study.git"
+  },
+  "keywords": [
+    "ABM",
+    "agent-based-modeling"
+  ],
+  "author": "Helen Taylor <networkedmind@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bricef/ABM-study/issues"
+  },
+  "homepage": "https://github.com/bricef/ABM-study#readme"
+}
