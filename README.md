@@ -1,3 +1,2 @@
-Agent Based Modelling Study repository
+Agent Based Modeling Study repository
 ======================================
-
