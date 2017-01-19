@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bricef/ABM-study/issues"
   },
-  "homepage": "https://github.com/bricef/ABM-study#readme"
+  "homepage": "https://github.com/bricef/ABM-study#readme",
+  "dependencies": {
+    "uuid": "^3.0.1"
+  }
 }
