@@ -13,9 +13,9 @@ var City = require("./City");
 // position in the city
 var COMFORT_THRESHOLD = 0.5;
 
-var city = new City(15,15, COMFORT_THRESHOLD);
+var metropolis = new City(15,15, COMFORT_THRESHOLD);
 
-city.print_city();
-city.tick();
+metropolis.print_city();
+metropolis.tick();
 console.log("=====================")
-city.print_city();
+metropolis.print_city();
